@@ -1,2 +1,2 @@
-##TaskMaster
-#A simple task keeping site made with NextJS
+
+#TaskMaster is simple task keeping site made with NextJS
